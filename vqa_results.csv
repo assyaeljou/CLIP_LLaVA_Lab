@@ -1,26 +1,26 @@
 Image,Question,LLaVA Answer,Human Evaluation
-img6.jpg,How many people are visible?,There is one person visible in the image.,
-img6.jpg,What objects can you see?,"In the image, there is a man wearing a white shirt and black shorts, playing soccer. He is kicking a soccer ball on a grassy field. The background features trees and a few bleachers",
-img6.jpg,Where are the people?,The people are on a soccer field.,
-img6.jpg,What are they doing?,The man is playing soccer.,
-img6.jpg,What is visible in the background?,"In the background, there are trees and a grassy field, which suggests that the man is playing soccer in a park or a similar outdoor recreational area.",
-img9.jpg,How many people are visible?,"There are two people visible in the image, walking hand in hand in a lush green field.",
-img9.jpg,What objects can you see?,"In the image, there are two people walking hand in hand in a lush green field. The sky is clear with a few scattered clouds, and the sun is shining brightly. The landscape is hilly",
-img9.jpg,Where are the people?,The people are walking in a field.,
-img9.jpg,What are they doing?,The couple is walking hand in hand in a field of tall grass.,
-img9.jpg,What is visible in the background?,"In the background, there are rolling hills and a clear blue sky with scattered clouds.",
-dog1.jpg,How many people are visible?,"There is one person visible in the image, partially visible on the left side.",
-dog1.jpg,What objects can you see?,"In the image, there is a dog sitting on a couch. The dog has a black and tan coat and is wearing a collar. The couch is gray and there is a pillow on it.",
-dog1.jpg,Where are the people?,The people are not visible in the image.,
-dog1.jpg,What are they doing?,The dog is sitting on the couch.,
-dog1.jpg,What is visible in the background?,"In the background, there is a person wearing a gray shirt, partially visible behind the dog.",
-img2.jpg,How many people are visible?,There are no people visible in the image. The focus is on the vehicle and the surrounding environment.,
-img2.jpg,What objects can you see?,"In the image, there is a black van driving on a road. The van is moving towards the viewer, and the road is surrounded by trees and grass on both sides. The trees have autumn foliage",
-img2.jpg,Where are the people?,The people are not visible in the image.,
+img6.jpg,How many people are visible?,There is one person visible in the image.,Correct
+img6.jpg,What objects can you see?,"In the image, there is a man wearing a white shirt and black shorts, playing soccer. He is kicking a soccer ball on a grassy field. The background features trees and a few bleachers",Correct
+img6.jpg,Where are the people?,The people are on a soccer field.,Correct
+img6.jpg,What are they doing?,The man is playing soccer.,Correct
+img6.jpg,What is visible in the background?,"In the background, there are trees and a grassy field, which suggests that the man is playing soccer in a park or a similar outdoor recreational area.",Correct
+img9.jpg,How many people are visible?,"There are two people visible in the image, walking hand in hand in a lush green field.",Correct
+img9.jpg,What objects can you see?,"In the image, there are two people walking hand in hand in a lush green field. The sky is clear with a few scattered clouds, and the sun is shining brightly. The landscape is hilly",Correct
+img9.jpg,Where are the people?,The people are walking in a field.,Correct
+img9.jpg,What are they doing?,The couple is walking hand in hand in a field of tall grass.,Correct
+img9.jpg,What is visible in the background?,"In the background, there are rolling hills and a clear blue sky with scattered clouds.",Correct
+dog1.jpg,How many people are visible?,"There is one person visible in the image, partially visible on the left side.",Correct
+dog1.jpg,What objects can you see?,"In the image, there is a dog sitting on a couch. The dog has a black and tan coat and is wearing a collar. The couch is gray and there is a pillow on it.",Correct
+dog1.jpg,Where are the people?,The people are not visible in the image.,Correct
+dog1.jpg,What are they doing?,The dog is sitting on the couch.,Correct
+dog1.jpg,What is visible in the background?,"In the background, there is a person wearing a gray shirt, partially visible behind the dog.",Correct
+img2.jpg,How many people are visible?,There are no people visible in the image. The focus is on the vehicle and the surrounding environment.,Correct
+img2.jpg,What objects can you see?,"In the image, there is a black van driving on a road. The van is moving towards the viewer, and the road is surrounded by trees and grass on both sides. The trees have autumn foliage",Correct
+img2.jpg,Where are the people?,The people are not visible in the image.,Correct
 img2.jpg,What are they doing?,"The image shows a car driving on a road, which suggests that the car is in motion. The driver appears to be focused on the road ahead, indicating that the car is likely in the process of",
-img2.jpg,What is visible in the background?,"In the background, there are trees with autumn foliage, indicating that the photo was likely taken during the fall season.",
-img3.jpg,How many people are visible?,There is one person visible in the image.,
-img3.jpg,What objects can you see?,"In the image, there is a person with curly hair, wearing a yellow vest over a black shirt, blue jeans, and black sneakers. They are holding a basketball and appear to be in the process",
-img3.jpg,Where are the people?,The people are in a park.,
-img3.jpg,What are they doing?,The person is playing basketball with a dog.,
-img3.jpg,What is visible in the background?,"In the background, there are trees and a row of buildings with white facades and blue accents.",
+img2.jpg,What is visible in the background?,"In the background, there are trees with autumn foliage, indicating that the photo was likely taken during the fall season.",Correct
+img3.jpg,How many people are visible?,There is one person visible in the image.,Correct
+img3.jpg,What objects can you see?,"In the image, there is a person with curly hair, wearing a yellow vest over a black shirt, blue jeans, and black sneakers. They are holding a basketball and appear to be in the process",Correct
+img3.jpg,Where are the people?,The people are in a park.,Correct
+img3.jpg,What are they doing?,The person is playing basketball with a dog.,Correct
+img3.jpg,What is visible in the background?,"In the background, there are trees and a row of buildings with white facades and blue accents.",Correct

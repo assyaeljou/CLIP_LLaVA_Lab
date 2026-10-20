@@ -110,8 +110,5 @@ Run the notebook cells from top to bottom.
 - Li et al. (2024), *LLaVA-OneVision: Easy Visual Task Transfer*.
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers)
 
-## Author
-
-**Assya El Jounaidi**
 
 GitHub: [@assyaeljou](https://github.com/assyaeljou)
